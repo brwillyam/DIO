@@ -1,0 +1,16 @@
+C:\Dev\DIO\PedroVaiAoMercado\obj\Debug\net5.0\PedroVaiAoMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\DIO\PedroVaiAoMercado\obj\Debug\net5.0\PedroVaiAoMercado.AssemblyInfoInputs.cache
+C:\Dev\DIO\PedroVaiAoMercado\obj\Debug\net5.0\PedroVaiAoMercado.AssemblyInfo.cs
+C:\Dev\DIO\PedroVaiAoMercado\obj\Debug\net5.0\PedroVaiAoMercado.csproj.CoreCompileInputs.cache
+C:\Dev\DIO\PedroVaiAoMercado\bin\Debug\net5.0\PedroVaiAoMercado.exe
+C:\Dev\DIO\PedroVaiAoMercado\bin\Debug\net5.0\PedroVaiAoMercado.deps.json
+C:\Dev\DIO\PedroVaiAoMercado\bin\Debug\net5.0\PedroVaiAoMercado.runtimeconfig.json
+C:\Dev\DIO\PedroVaiAoMercado\bin\Debug\net5.0\PedroVaiAoMercado.runtimeconfig.dev.json
+C:\Dev\DIO\PedroVaiAoMercado\bin\Debug\net5.0\PedroVaiAoMercado.dll
+C:\Dev\DIO\PedroVaiAoMercado\bin\Debug\net5.0\ref\PedroVaiAoMercado.dll
+C:\Dev\DIO\PedroVaiAoMercado\bin\Debug\net5.0\PedroVaiAoMercado.pdb
+C:\Dev\DIO\PedroVaiAoMercado\obj\Debug\net5.0\PedroVaiAoMercado.dll
+C:\Dev\DIO\PedroVaiAoMercado\obj\Debug\net5.0\ref\PedroVaiAoMercado.dll
+C:\Dev\DIO\PedroVaiAoMercado\obj\Debug\net5.0\PedroVaiAoMercado.pdb
+C:\Dev\DIO\PedroVaiAoMercado\obj\Debug\net5.0\PedroVaiAoMercado.genruntimeconfig.cache
+C:\dev\DIO\PedroVaiAoMercado\obj\Debug\net5.0\PedroVaiAoMercado.csprojAssemblyReference.cache
