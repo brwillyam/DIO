@@ -1,0 +1,16 @@
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.csprojAssemblyReference.cache
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.AssemblyInfoInputs.cache
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.AssemblyInfo.cs
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.csproj.CoreCompileInputs.cache
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.exe
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.deps.json
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.runtimeconfig.json
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.runtimeconfig.dev.json
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.dll
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\bin\Debug\net5.0\ref\FilaDoBanco.dll
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.pdb
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.dll
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\obj\Debug\net5.0\ref\FilaDoBanco.dll
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.pdb
+C:\dev\dio\DesafiosCSharp\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.genruntimeconfig.cache
