@@ -1,0 +1,16 @@
+C:\dev\dio\Projetos\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.csprojAssemblyReference.cache
+C:\dev\dio\Projetos\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dio\Projetos\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.AssemblyInfoInputs.cache
+C:\dev\dio\Projetos\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.AssemblyInfo.cs
+C:\dev\dio\Projetos\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\dev\dio\Projetos\ProjetoCadastro\bin\Debug\net5.0\ProjetoCadastro.exe
+C:\dev\dio\Projetos\ProjetoCadastro\bin\Debug\net5.0\ProjetoCadastro.deps.json
+C:\dev\dio\Projetos\ProjetoCadastro\bin\Debug\net5.0\ProjetoCadastro.runtimeconfig.json
+C:\dev\dio\Projetos\ProjetoCadastro\bin\Debug\net5.0\ProjetoCadastro.runtimeconfig.dev.json
+C:\dev\dio\Projetos\ProjetoCadastro\bin\Debug\net5.0\ProjetoCadastro.dll
+C:\dev\dio\Projetos\ProjetoCadastro\bin\Debug\net5.0\ref\ProjetoCadastro.dll
+C:\dev\dio\Projetos\ProjetoCadastro\bin\Debug\net5.0\ProjetoCadastro.pdb
+C:\dev\dio\Projetos\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.dll
+C:\dev\dio\Projetos\ProjetoCadastro\obj\Debug\net5.0\ref\ProjetoCadastro.dll
+C:\dev\dio\Projetos\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.pdb
+C:\dev\dio\Projetos\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.genruntimeconfig.cache
